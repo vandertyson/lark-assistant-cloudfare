@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lark-assistant-cloudfare",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "243fc933-c719-407e-b0d1-b908e73497f5",
+      "database_name": "lark-assistant"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
